@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\peace\\KY1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C43C9A2D-ED0D-CF33-0CD8-33274FBC10E8}|Assembly-CSharp.csproj|c:\\users\\peace\\ky1\\assets\\scripts\\topdownaimrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C43C9A2D-ED0D-CF33-0CD8-33274FBC10E8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\topdownaimrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C43C9A2D-ED0D-CF33-0CD8-33274FBC10E8}|Assembly-CSharp.csproj|C:\\Users\\peace\\KY1\\assets\\scripts\\topdownnmovment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C43C9A2D-ED0D-CF33-0CD8-33274FBC10E8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\topdownnmovment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C43C9A2D-ED0D-CF33-0CD8-33274FBC10E8}|Assembly-CSharp.csproj|C:\\Users\\peace\\KY1\\assets\\scripts\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C43C9A2D-ED0D-CF33-0CD8-33274FBC10E8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C43C9A2D-ED0D-CF33-0CD8-33274FBC10E8}|Assembly-CSharp.csproj|c:\\users\\peace\\ky1\\assets\\scripts\\topdowncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C43C9A2D-ED0D-CF33-0CD8-33274FBC10E8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\topdowncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C43C9A2D-ED0D-CF33-0CD8-33274FBC10E8}|Assembly-CSharp.csproj|C:\\Users\\peace\\KY1\\assets\\scripts\\playerinputcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C43C9A2D-ED0D-CF33-0CD8-33274FBC10E8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerinputcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TopDownAimRotation.cs",
+              "DocumentMoniker": "C:\\Users\\peace\\KY1\\Assets\\Scripts\\TopDownAimRotation.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TopDownAimRotation.cs",
+              "ToolTip": "C:\\Users\\peace\\KY1\\Assets\\Scripts\\TopDownAimRotation.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TopDownAimRotation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T07:28:13.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TopDownnMovment.cs",
+              "DocumentMoniker": "C:\\Users\\peace\\KY1\\Assets\\Scripts\\TopDownnMovment.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TopDownnMovment.cs",
+              "ToolTip": "C:\\Users\\peace\\KY1\\Assets\\Scripts\\TopDownnMovment.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TopDownnMovment.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAIwB8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T09:28:54.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerInputController.cs",
+              "DocumentMoniker": "C:\\Users\\peace\\KY1\\Assets\\Scripts\\PlayerInputController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerInputController.cs",
+              "ToolTip": "C:\\Users\\peace\\KY1\\Assets\\Scripts\\PlayerInputController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerInputController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAADwvyYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T07:45:44.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TopDownController.cs",
+              "DocumentMoniker": "C:\\Users\\peace\\KY1\\Assets\\Scripts\\TopDownController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TopDownController.cs",
+              "ToolTip": "C:\\Users\\peace\\KY1\\Assets\\Scripts\\TopDownController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TopDownController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T07:39:19.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InputManager.cs",
+              "DocumentMoniker": "C:\\Users\\peace\\KY1\\Assets\\Scripts\\InputManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InputManager.cs",
+              "ToolTip": "C:\\Users\\peace\\KY1\\Assets\\Scripts\\InputManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InputManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T06:31:30.252Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
